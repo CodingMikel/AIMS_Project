@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Mikeljinx\OneDrive - Hanoi University of Science and Technology\HUST_2022_1\OOP\AIMS_GIT\AIMS_Project\AIMSCode\.metadata\.plugins\org.eclipse.jdt.core
+2315386619.index
+3959137331.index
+1865797976.index
