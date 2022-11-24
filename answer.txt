@@ -1,0 +1,4 @@
+●	After the call of swap(jungleDVD, cinderellaDVD) why does the title of these two objects still remain?
+ans: because it only pass the value into the method.
+●	After the call of changeTitle(jungleDVD, cinderellaDVD.getTitle()) why is the title of the JungleDVD changed?
+ans: because it set the title base on the address point to the object in setTitle() method
