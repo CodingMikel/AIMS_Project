@@ -6,7 +6,11 @@ public class TestPassingParameter {
 		DVD cinderellaDVD = new DVD("Cinderella");
 		
 		swap(jungleDVD, cinderellaDVD);
-		System.ou
+		System.out.println("jungle dvd title: " + jungleDVD.getTitle());
+		System.out.println("cinderella dvd title: " + cinderellaDVD.getTitle());
+
+		changeTitle(jungleDVD, cinderellaDVD.getTitle());
+		System.out.println("jungle dvd title: " + jungleDVD.getTitle());
 	}
 	
 	public static void swap(Object o1, Object o2) {
