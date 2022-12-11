@@ -78,4 +78,11 @@ public class DigitalVideoDisc {
 		nbDigitalVideoDisc++;
 		this.id = nbDigitalVideoDisc;
 	}
+	public void playDVD() {
+		if (length == 0) {
+			System.out.println("DVD cannot be played");
+			return;
+		}
+		System.out.println(title + " " + length);
+	}
 }
